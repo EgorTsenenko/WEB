@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="block">
+      <div class="pageHeader">
+        <a href="#ссылка на главную">
+          <img class="logo" src="img\logo.png" />
+        </a>
+        <nav>
+          <ul>
+            <li><a href="#The problem">The problem</a></li>
+            <li>|</li>
+            <li><a href="#PiedPiperCoin">PiedPiperCoin</a></li>
+            <li>|</li>
+            <li><a href="#The team">The team</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div id="ссылка на главную" class="Jumbotron">
+        <img src="img\Jumbotron.png" />
+        <span>PiperNet Is Here</span>
+      </div>
+
+      <div id="The problem" class="TheProblem">
+        <h1>The Problem</h1>
+        <p>
+          Beneath the flashy homepages of your favorite sites lurk Hooli™ and
+          other evil corporations out to hoard and sell your most personal data.
+        </p>
+        <p>
+          What was built to be the ultimate platform for the free sharing of
+          knowledge has turned into a money-hungry monster feasting on our
+          privacy and freedom.
+        </p>
+        <p>
+          But fear not, for Pied Piper has the answer! And it’s simple: An
+          autonomous peer-to-peer network featuring distributed storage powered
+          by universal compression, accelerated scheduling allocation, and
+          end-to-end encryption.
+        </p>
+        <p>
+          Put even simpler — <b>it’s the internet, completely decentralized.</b>
+        </p>
+      </div>
+
+      <div class="Hero">
+        <img src="img\hero.png" />
+        <span
+          >We’re in this together! All of our computers and phones join in a
+          network to make the strongest supercomputer the world has ever
+          seen.</span
+        >
+      </div>
+
+      <div id="PiedPiperCoin" class="PPC">
+        <h1>Introducing PiedPiperCoin</h1>
+        <img src="img\PPC Logo.png" />
+        <div class="PPCp">
+          <p>
+            Pied Piper's new internet is built for users, by users. You supply
+            the storage, compute, and networking resources that power our entire
+            decentralized web.
+          </p>
+        </div>
+        <p>
+          Now there's a way to give credit where credit is due. Compute credit,
+          that is! The more you share your device resources, the more
+          PiedPiperCoin you receive.
+        </p>
+        <p>
+          Whether you're a developer with an app ready for market, or just an
+          Average Joe with a smartphone you'll love all you can do with
+          PiedPiperCoin.
+        </p>
+      </div>
+
+      <div id="The team" class="Team">
+        <h1>The Team</h1>
+        <div class="images">
+          <div class="photo">
+            <caption>
+              <img src="img\Richarde.png" />
+              <figcaption>
+                <div class="Name">Richard Hendricks</div>
+                <div class="Job">Founder & CEO</div>
+              </figcaption>
+            </caption>
+          </div>
+          <div class="photo">
+            <caption>
+              <img src="img\Dinesh.png" />
+              <figcaption>
+                <div class="Name">Dinesh Chugtai</div>
+                <div class="Job">Senior Programmer</div>
+              </figcaption>
+            </caption>
+          </div>
+          <div class="photo">
+            <caption>
+              <img src="img\Bertram.png" />
+              <figcaption>
+                <div class="Name">Bertram Gilfoyle</div>
+                <div class="Job">Chief Systems Architect</div>
+              </figcaption>
+            </caption>
+          </div>
+          <div class="photo">
+            <caption>
+              <img src="img\Jared.png" />
+              <figcaption>
+                <div class="Name">Jared Dunn</div>
+                <div class="Job">Chief Operating Officer</div>
+              </figcaption>
+            </caption>
+          </div>
+          <div class="photo">
+            <caption>
+              <img src="img\Monika.png" />
+              <figcaption>
+                <div class="Name">Monica Hall</div>
+                <div class="Job">Chief Financial Officer</div>
+              </figcaption>
+            </caption>
+          </div>
+          <div class="photo">
+            <caption>
+              <img src="img\Nelson.png" />
+              <figcaption>
+                <div class="Name">Nelson Bighetti</div>
+                <div class="Job">Majority Investor</div>
+              </figcaption>
+            </caption>
+          </div>
+        </div>
+      </div>
+
+      <div class="rectangle text">
+        All other trademarks and copyrights are the property of their respective
+        owners. Use of these names, trademarks and brands does not imply
+        endorsement.
+      </div>
+    </div>
+  </body>
+</html>
